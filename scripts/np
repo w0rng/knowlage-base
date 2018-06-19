@@ -1,0 +1,20 @@
+#!/bin/bash
+
+mkdir $PWD/$1
+
+mkdir $PWD/$1/Temp
+mkdir $PWD/$1/Temp/Notes
+mkdir $PWD/$1/Temp/Sketches
+
+mkdir $PWD/$1/Resources
+mkdir $PWD/$1/Source
+
+cd $PWD/$1/
+python3 -m venv .venv
+
+touch README.md
+echo ".gitignore\n Temp/\n .venv/\n *pyc" > .gitignore
+
+git init
+git add .
+git commit -m "Новый проект"

@@ -1,0 +1,16 @@
+Theme - Soda
+
+Anaconda
+GitGutter
+MarkdownPreviev
+SideBarEnhancements
+SublimeREPL
+requirementstxt
+
+SublimeLinter
+SublimeLinter-annotations
+SublimeLinter-contrib-erlc
+SublimeLinter-flake8
+SublimeLinter-json
+SublimeLinter-pylint
+

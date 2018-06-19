@@ -1,0 +1,64 @@
+{
+	"anaconda_linter_mark_style": "none",
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Fruity-molokai (SL).tmTheme",
+	"complete_all_parameters": false,
+	"complete_parameters": true,
+	"detect_indentation": true,
+	"file_exclude_patterns":
+	[
+		".*",
+		"*.a",
+		"*.bak",
+		"*.class",
+		"*.db",
+		"*.dll",
+		"*.dylib",
+		"*.exe",
+		"*.idb",
+		"*.lib",
+		"*.ncb",
+		"*.o",
+		"*.obj",
+		"*.pdb",
+		"*.psd",
+		"*.pyc",
+		"*.pyo",
+		"*.sdf",
+		"*.so",
+		"*.suo",
+		"CVS",
+		".DS_Store",
+		".svn",
+		".git",
+		".hg",
+		"__pycache__"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"open_files_in_new_window": false,
+	"pep8_ignore":
+	[
+		"E203",
+		"E226",
+		"E309",
+		"E402"
+	],
+	"rulers":
+	[
+		79
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
