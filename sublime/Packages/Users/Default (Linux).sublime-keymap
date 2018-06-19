@@ -13,5 +13,6 @@
             "external_id": "python",
             "extend_env": {"PYTHONIOENCODING": "utf-8"}
         }
-    }
+    },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
 ]
