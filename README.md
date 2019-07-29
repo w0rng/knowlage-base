@@ -1,41 +1,16 @@
-# Файлы настроек для sublime. Утилиты.  
+# База знаний
 
 ## F.A.Q.
 Q: Что это?  
-A: Это настройки моих программ. А так же небольшие скриптики.  
+A: Это моя база знаний. Тут хранятся мои конфиги, скрипты, шпоргалки.  
 
 Q: Зачем это?  
-A: Чтобы не настраивать каждый раз все руками.  
+A: Чтобы ничего не забыть и не потерять.  
 
 Q: ...  
-A: Вдохновлено [Relrin](https://github.com/Relrin/dotfiles)  
+A: Вдохновлено [devpew](https://devpew.com/knowledgebase/)  
 
-
-## Установка sublime
-
-1) Скопируйте файлы из sublime/Packages в ~/.config/sublime-text-3/Packages
-```bash
-git clone https://github.com/a-abram/dotfiles ~/Downloads/
-cd ~/Downloads/
-cp -r ~/Downloads/dotfiles/sublime/Packages/* ~/.config/sublime-text-3/Packages/
-```  
-2) Установите пакеты из списка [requirements.txt](https://raw.githubusercontent.com/a-abram/dotfiles/master/sublime/requirements.txt) при помощи [PackageControl](https://packagecontrol.io/)  
-3) Перезапустите sublime. Если что-то сломалось, прошу прощения.  
-
-
-## Установка скриптов
-
-1) Сделайте скрипты исполняемыми, скопируйте в папку /usr/bin/ (для этого могут потребоваться права суперпользователя)
-```bash
-git clone https://github.com/a-abram/dotfiles ~/Downloads/
-cd ~/Downloads/
-chmod +x dotfiles/scripts/*
-cp -r dotfiles/scripts/* ~/usr/bin/
-```  
-2) Наслаждайтесь  
-
-
-## Описание скриптов
-
-**imgur-screenshot** - В моем дистрибутиве нет нормальной программы для создания снимков области экрана. Поэтому мне пришлось честно найти и скопировать данный скрипт себе.  
-**np** - маленький скрипт, создающий все необхожимые файлы для нового, пустого проекта.
+## Список папок
+**library/** - мои шпоргалки.  
+**scripts/** - скрипты.  
+**settings/** - файлы настроек.  
