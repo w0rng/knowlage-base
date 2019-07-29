@@ -20,5 +20,6 @@
 
 1) Установить все расширения из list extensions.txt  
 2) Переместить в ```%appdata%\Code\User``` файлы.  
-    a) *settings.json* - настройки окружения 
-    b) *locale.json* - перевод VS code на русский язык
+    a) *settings.json* - настройки окружения  
+    b) *locale.json* - перевод VS code на русский язык  
+3) Первичная настройка выполнена. 
