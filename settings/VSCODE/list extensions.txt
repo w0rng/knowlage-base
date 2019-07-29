@@ -1,0 +1,9 @@
+austin.code-gnu-global
+dunstontc.dark-plus-syntax
+dunstontc.vscode-c-syntax
+dunstontc.vscode-gitignore-syntax
+MS-CEINTL.vscode-language-pack-ru
+ms-python.python
+ms-vscode.cpptools
+PhilHindle.errorlens
+shd101wyy.markdown-preview-enhanced
