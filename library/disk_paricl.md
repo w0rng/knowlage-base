@@ -6,6 +6,6 @@ SSD:
 	2. /boot ext2 256M  
 
 HDD:
-	1. swap 4G
-	2. /tmp ext4 10G
-	3. /var ext4 10G
+	1. swap 4G  
+	2. /tmp ext4 10G  
+	3. /var ext4 10G  
