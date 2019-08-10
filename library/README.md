@@ -6,7 +6,7 @@
 
 ## Grub
 [Как скрыть меню grub](https://github.com/a-abram/KnowlageBase/blob/master/library/hide_menu_grub.md)  
-[Специальная кнопка для загрузки Windows](https://github.com/a-abram/KnowlageBase/blob/master/library/button_for_windows.md) 
+[Специальная кнопка для загрузки Windows](https://github.com/a-abram/KnowlageBase/blob/master/library/button_for_windows.md)  
 [Установка настроек grub, увеличивающих скорость загрузки](https://github.com/a-abram/KnowlageBase/blob/master/library/settings_grub.md)  
 
 ## Разное
