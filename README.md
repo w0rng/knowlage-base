@@ -14,7 +14,7 @@ A: Вдохновлено [devpew](https://devpew.com/knowledgebase/)
 
 ## Шпаргалки
 
-### Linux 
+### Linux
 [Как разметить диск](https://github.com/w0rng/KnowlageBase/blob/master/library/disk_paricl.md)  
 [Как настроить linux для работы с ssd](https://github.com/w0rng/KnowlageBase/blob/master/library/settings_for_ssd.md)  
 
@@ -25,7 +25,7 @@ A: Вдохновлено [devpew](https://devpew.com/knowledgebase/)
 
 ### Разное
 [Как оформить репозиторий](https://github.com/w0rng/KnowlageBase/blob/master/library/how_to_make_repository.md)  
-
+[Как выполнить PHP код на своем компьютере](https://github.com/w0rng/KnowlageBase/blob/master/library/how_to_start_php.md)
 
 ## Скрипты
 
