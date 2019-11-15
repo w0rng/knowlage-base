@@ -1,9 +1,11 @@
-austin.code-gnu-global
-dunstontc.dark-plus-syntax
-dunstontc.vscode-c-syntax
-dunstontc.vscode-gitignore-syntax
-MS-CEINTL.vscode-language-pack-ru
-ms-python.python
-ms-vscode.cpptools
-PhilHindle.errorlens
-shd101wyy.markdown-preview-enhanced
+code --install-extension austin.code-gnu-global
+code --install-extension dunstontc.dark-plus-syntax
+code --install-extension dunstontc.vscode-c-syntax
+code --install-extension gicentre.markdown-preview-enhanced-with-litvis
+code --install-extension James-Yu.latex-workshop
+code --install-extension MS-CEINTL.vscode-language-pack-ru
+code --install-extension ms-python.python
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.Go
+code --install-extension PhilHindle.errorlens
+code --install-extension quicktype.quicktype

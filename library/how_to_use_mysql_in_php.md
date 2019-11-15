@@ -1,6 +1,6 @@
 # Как работать с базами данных в php
 
-1. Запустите [denwer](https://github.com/w0rng/KnowlageBase/blob/master/library/how_to_start_php.md) и проверьте, не удалина ли папка Tools из вашего каталога localhost.  
+1. Запустите [denwer](how_to_start_php.md) и проверьте, не удалина ли папка Tools из вашего каталога localhost.  
 Как правило, эта папка располагается по следующему пути: `Z:\home\localhost\www\Tools`. Если данная папка отсутсвует, скачайте ее по [ссылке](https://yadi.sk/d/3Tp44nGyAJUqog) и поместите по вышеуказанному пути. В данной папке находится phpmyadmin - панель управления базами данных.  
 
 2. Откройте в браузере адресс [localhost/tools/phpmyadmin/](http://localhost/tools/phpmyadmin/). Вы увидете панель для упрвления базами данных.  
