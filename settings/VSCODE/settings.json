@@ -1,6 +1,5 @@
 {
     "window.menuBarVisibility": "toggle",
-    "editor.minimap.enabled": false,
     "workbench.editor.tabSizing": "shrink",
     "editor.smoothScrolling": true,
     "files.autoSave": "afterDelay",
@@ -18,7 +17,8 @@
         "*.tmp": true,
         "**/.*": true,
         "**/.git": true,
-        "**/__pycache__/": true
+        "**/__pycache__/": true,
+        "LICENSE": true
     },
     "workbench.sideBar.location": "right",
     "explorer.openEditors.visible": 0,
@@ -38,10 +38,13 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "window.zoomLevel": 1,
     "python.jediEnabled": false,
-    "workbench.activityBar.visible": false,
     "workbench.tips.enabled": false,
-    "workbench.statusBar.visible": false,
     "breadcrumbs.enabled": false,
-    "editor.renderWhitespace": "selection",
-    "workbench.colorTheme": "dark-plus-syntax"
+    "workbench.colorTheme": "dark-plus-syntax",
+    "editor.rulers": [
+        79,
+        72
+    ],
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": false
 }

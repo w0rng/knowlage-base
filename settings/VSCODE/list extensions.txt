@@ -1,6 +1,5 @@
 code --install-extension austin.code-gnu-global
 code --install-extension dunstontc.dark-plus-syntax
-code --install-extension dunstontc.vscode-c-syntax
 code --install-extension gicentre.markdown-preview-enhanced-with-litvis
 code --install-extension James-Yu.latex-workshop
 code --install-extension MS-CEINTL.vscode-language-pack-ru
